@@ -1,4 +1,4 @@
-Dockerized Symfony app!!!
+Dockerized Symfony app!!
 ======================
 
 How to auto deploy test-green docker base symfony application to the Elastic Beanstalk
